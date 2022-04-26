@@ -32,22 +32,23 @@
 #define ObjectPointer_27000_Offset                           8120
 #define ObjectPointer_NULL_Offset                            8125
 #define ObjectPointer_27002_Offset                           8130
-#define AuxFunction2_Q1_Offset                               8135
-#define AuxFunction2_Q2_Offset                               8147
-#define AuxFunction2_Q3_Offset                               8159
-#define AuxFunction2_Q4_Offset                               8171
-#define AuxFunction2_29005_Offset                            8183
-#define AuxFunction2_29006_Offset                            8195
-#define AuxFunction2_29007_Offset                            8207
-#define AuxFunction2_29008_Offset                            8219
-#define AuxFunction2_29009_Offset                            8231
+#define Generated_Pointer_To_Null_Offset                     8135
+#define AuxFunction2_Q1_Offset                               8140
+#define AuxFunction2_Q2_Offset                               8152
+#define AuxFunction2_Q3_Offset                               8164
+#define AuxFunction2_Q4_Offset                               8176
+#define AuxFunction2_29005_Offset                            8188
+#define AuxFunction2_29006_Offset                            8200
+#define AuxFunction2_29007_Offset                            8212
+#define AuxFunction2_29008_Offset                            8224
+#define AuxFunction2_29009_Offset                            8236
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_MyProject1_Size   8243
+#define ISO_OP_MyProject1_Size   8248
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_MyProject1[];
 
-#define ISO_OP_MyProject1_ObjectNumber     40
+#define ISO_OP_MyProject1_ObjectNumber     41
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset_Id[];
 #define ISO_OP_MyProject1_Scale_Offset      1

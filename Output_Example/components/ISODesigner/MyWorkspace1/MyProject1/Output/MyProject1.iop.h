@@ -37,6 +37,7 @@
 #define ObjectPointer_27000               27000
 #define ObjectPointer_NULL                27001
 #define ObjectPointer_27002               27002
+#define Generated_Pointer_To_Null         27003
 #define AuxFunction2_Q1                   29001
 #define AuxFunction2_Q2                   29002
 #define AuxFunction2_Q3                   29003
